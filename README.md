@@ -19,3 +19,10 @@ Run the `pytorch_hpo_fmnist.ipynb`.
 
 To view the Optuna dashboard run `optuna-dashboard sqlite:///example.db`
 
+Here are some plots that you will see on the dashboard
+
+![pipeline](./history.png)
+![pipeline](./parallel.png)
+![pipeline](./slice.png)
+![pipeline](./importance.png)
+![pipeline](./edf.png)
