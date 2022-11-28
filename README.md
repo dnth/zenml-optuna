@@ -13,7 +13,9 @@ Vizualization of the pipeline on the local ZenML Dashboard:
 
 ## Get Started
  
-`pip install zenml[server] optuna`
+`pip install zenml[server] optuna optuna-dashboard plotly`
 
 Run the `pytorch_hpo_fmnist.ipynb`.
+
+To view the Optuna dashboard run `optuna-dashboard sqlite:///example.db`
 
