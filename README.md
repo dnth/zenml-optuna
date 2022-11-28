@@ -21,8 +21,17 @@ To view the Optuna dashboard run `optuna-dashboard sqlite:///example.db`
 
 Here are some plots that you will see on the dashboard
 
+Optimization History
 ![pipeline](./history.png)
+
+Parallel Coordinate Plot
 ![pipeline](./parallel.png)
+
+Slice Plot
 ![pipeline](./slice.png)
+
+Hyperparameter Importance
 ![pipeline](./importance.png)
+
+Empirical Distribution
 ![pipeline](./edf.png)
