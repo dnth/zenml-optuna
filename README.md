@@ -7,7 +7,7 @@ The pipeline consist of 3 steps:
 * Optimize hyperparameter with Optuna.
 * Train and evaluate a model with the best hyperparameters.
 
-Vizualization of the pipeline
+Vizualization of the pipeline on the local ZenML Dashboard:
 
 ![pipeline](./pipeline_viz.png)
 
