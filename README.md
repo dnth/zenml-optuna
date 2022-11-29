@@ -17,7 +17,7 @@ Vizualization of the pipeline on the local ZenML Dashboard:
 
 Run the `pytorch_hpo_fmnist.ipynb` in Colab [here](https://colab.research.google.com/github/dnth/zenml-optuna/blob/master/pytorch_hpo_fmnist.ipynb).
 
-To view the Optuna dashboard run `optuna-dashboard sqlite:///example.db`
+To view the Optuna dashboard run `optuna-dashboard sqlite:///zenml-optuna.db`
 
 Here are some plots that you will see on the dashboard
 
